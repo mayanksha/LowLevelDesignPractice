@@ -1,7 +1,7 @@
-package com.interviews.lld.service;
+package com.practice.lld.service;
 
-import com.interviews.lld.model.Board;
-import com.interviews.lld.model.Player;
+import com.practice.lld.model.Board;
+import com.practice.lld.model.Player;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j

@@ -1,10 +1,8 @@
-package com.interviews.lld.model;
+package com.practice.lld.model;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.ToString;
-
-import java.util.UUID;
 
 @Getter
 @ToString

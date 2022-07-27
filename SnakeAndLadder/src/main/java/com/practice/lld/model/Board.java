@@ -1,4 +1,4 @@
-package com.interviews.lld.model;
+package com.practice.lld.model;
 
 import lombok.Getter;
 import lombok.Setter;

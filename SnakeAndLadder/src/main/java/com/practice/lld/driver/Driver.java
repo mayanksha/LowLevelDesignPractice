@@ -1,7 +1,7 @@
-package com.interviews.lld.driver;
+package com.practice.lld.driver;
 
-import com.interviews.lld.model.*;
-import com.interviews.lld.service.BoardGame;
+import com.practice.lld.model.*;
+import com.practice.lld.service.BoardGame;
 
 import java.io.InputStream;
 import java.util.ArrayList;

@@ -1,16 +1,17 @@
-package com.interviews.lld.model;
+package com.practice.lld.model;
 
 import lombok.Getter;
 import lombok.ToString;
 
 @ToString
 @Getter
-public class Ladder {
+public class Snake {
+
     private final Integer start;
 
     private final Integer end;
 
-    public Ladder(Integer start, Integer end) {
+    public Snake(Integer start, Integer end) {
         this.start = start;
         this.end = end;
     }
