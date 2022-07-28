@@ -11,6 +11,7 @@
     <modules>
         <module>SnakeAndLadder</module>
         <module>ParkingLot</module>
+        <module>Splitwise</module>
     </modules>
 
     <repositories>
